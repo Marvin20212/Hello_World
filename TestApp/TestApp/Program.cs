@@ -4,7 +4,7 @@
  Hello World Programm
  Version 1.0
  letzte Aenderung 17.09.2019
- Kai Mecke
+ Kai Mecke, Marvin Müller
 */
 
 namespace Hello_World_Mecke
